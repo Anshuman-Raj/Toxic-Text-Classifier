@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/deep-learning-advanced-nlp
+# AR
 from __future__ import print_function, division
 from builtins import range
 # Note: you may need to update your version of future
